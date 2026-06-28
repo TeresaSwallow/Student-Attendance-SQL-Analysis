@@ -63,6 +63,3 @@ Tables:
 * Dataset was synthetically generated for educational purposes.
 * Analysis focused on descriptive reporting rather than predictive analytics.
 * Attendance trends were evaluated using a limited sample dataset.
-
-```
-```
